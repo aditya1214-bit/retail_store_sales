@@ -253,8 +253,8 @@ Ensure you have Python 3.8+ installed on your local machine.
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/retail-sales-analysis.git
-cd retail-sales-analysis
+git clone https://github.com/aditya1214-bit/retail_store_sales.git
+cd retail_store_sales
 ```
 
 ### 3. Set Up a Virtual Environment
@@ -284,9 +284,9 @@ jupyter notebook notebooks/data.ipynb
 
 ## 👤 Author
 
-* **Your Name** - Data Analyst & BI Developer
-* **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/)
-* **GitHub**: [github.com/yourusername](https://github.com/)
+* **Aditya Kumar** - Data Analyst & BI Developer
+* **LinkedIn**: [Aditya Kumar](https://www.linkedin.com/in/aditya-kumar-518580319)
+* **GitHub**: [aditya1214-bit](https://github.com/aditya1214-bit)
 
 ---
 
